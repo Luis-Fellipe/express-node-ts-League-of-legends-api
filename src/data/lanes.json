@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "lane": "Top",
+        "champions": ["Sett", "Mordekaiser", "Nasus", "Jax", "Ornn"]
+    },
+    {
+        "id": 2,
+        "lane": "Jungle",
+        "champions": ["Evelynn", "Gragas", "Lee Sin"]
+    },
+    {
+        "id": 3,
+        "lane": "Mid",
+        "champions": ["Yone", "Yasuo"]
+    },
+    {
+        "id": 4,
+        "lane": "ADC",
+        "champions": ["Vayne", "Caitlyn", "Ezreal"]
+    },
+    {
+        "id": 5,
+        "lane": "Support",
+        "champions": ["Pyke", "Yuumi", "Braum"]
+    }
+]
