@@ -50,7 +50,7 @@ Depois, execute:
 npm run start:dev
 ```
 
-O servidor iniciará em `http://localhost:3000`.
+O servidor iniciará em `http://localhost:3333`.
 
 ## 🔁 Rotas da API
 
