@@ -23,34 +23,6 @@ Esta é uma API REST desenvolvida em **Node.js com TypeScript**, que simula um s
 - Padrão MVC (Model-View-Controller)
 - Manipulação de dados com JSON (sem banco de dados por enquanto)
 
-## 📂 Estrutura de Pastas
-
-```
-src/
-├── app.ts
-├── server.ts
-├── routes/
-│   └── routes.ts
-├── controllers/
-│   ├── champion-controller.ts
-│   └── lanes-controller.ts
-├── services/
-│   ├── champions-service.ts
-│   └── lanes-service.ts
-├── repositories/
-│   ├── champions-repository.ts
-│   └── lanes-repository.ts
-├── models/
-│   ├── champion-model.ts
-│   ├── statistics-model.ts
-│   ├── lanes-model.ts
-│   └── http-response-model.ts
-├── utils/
-│   └── http-helper.ts
-└── data/
-    └── lanes.json
-```
-
 ## 📦 Instalação
 
 ```bash
@@ -58,7 +30,7 @@ src/
 git clone https://github.com/seu-usuario/seu-repositorio.git
 
 # Acesse o diretório do projeto
-cd seu-repositorio
+cd express-ts-League-of-legends-api
 
 # Instale as dependências
 npm install
@@ -69,7 +41,7 @@ npm install
 Antes de iniciar, crie um arquivo `.env` na raiz do projeto com a seguinte variável:
 
 ```
-PORT=3000
+PORT=3333
 ```
 
 Depois, execute:
