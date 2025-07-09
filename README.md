@@ -2,7 +2,7 @@
 
 ## 📌 Sobre o Projeto
 
-Esta é uma API REST desenvolvida em **Node.js com TypeScript**, que simula um sistema de gerenciamento de **campeões e suas rotas (lanes)** baseado no universo do League of Legends. O projeto permite criar, listar, editar e deletar campeões, além de consultar as lanes disponíveis e os campeões mais usados em cada uma.
+Esta é uma API REST desenvolvida em **Node.js com TypeScript**, que simula um sistema de gerenciamento de **campeões e suas rotas (lanes)** baseado no universo do League of Legends. O projeto permite criar, listar, editar e deletar campeões, além de consultar as lanes disponíveis e os campeões usados em cada uma.
 
 ## 🚀 Funcionalidades
 
