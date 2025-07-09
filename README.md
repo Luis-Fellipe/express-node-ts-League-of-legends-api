@@ -131,5 +131,4 @@ A API retorna os seguintes códigos HTTP:
 
 ## 👨‍💻 Autor
 
-Desenvolvido durante os estudos na [Dio.me](https://www.dio.me/).  
-[LinkedIn](https://www.linkedin.com/in/luis-fellipe-real)
+[Meu LinkedIn](https://www.linkedin.com/in/luis-fellipe-real)
