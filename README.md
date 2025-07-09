@@ -47,7 +47,7 @@ PORT=3333
 Depois, execute:
 
 ```bash
-npm run dev
+npm run start:dev
 ```
 
 O servidor iniciará em `http://localhost:3000`.
