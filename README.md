@@ -129,12 +129,6 @@ A API retorna os seguintes códigos HTTP:
 - Manipulação de JSON como "banco de dados"
 - Padrões de resposta HTTP
 
-## 🔗 Acesse Online
-
-> (Se o projeto estiver hospedado em alguma plataforma, adicione o link aqui)
-
----
-
 ## 👨‍💻 Autor
 
 Desenvolvido durante os estudos na [Dio.me](https://www.dio.me/).  
